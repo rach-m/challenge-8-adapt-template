@@ -1,3 +1,39 @@
+# Adapt a template with your information
+
+We decided to save some time and got a template to use, the code is kind of a mess, and there's a lot of extra files but given the rush that's ok for now. The template has sections for your work, personal information, projects and some education, at your discretion, change your information on the template in the appropiate parts.
+
+## Description
+
+There are no particular framework or library you'll need to use, this template uses bootstrap and some familiarity with it can help. You can add anything else on top you feel comfortable with. Lite code is preferred, is a simple task and should't take you a long time.
+
+When you're done, push to your repo and submit your answer.
+
+## Procedure
+
+To solve this, the following is recommended:
+
+Github account, and basic git skills.
+
+JavaScript proficiency, familiarity with promises, fetch, cache and the basis of the event loop.
+
+## Coding
+
+To create your answer follow this steps:
+
+* Fork the repo to your account, or download the zip file
+* Solve the ticket
+* Commit your code
+* Push your changes
+* [Publish your version in Github Pages](https://pages.github.com/) (optional)
+* [Submit your response](https://codecorgi.co/submit/new/7)
+
+## Notes
+
+The template used in this challenge came from Start Bootstrap. For more information
+about customizing the template and utilization,
+check out their [website](https://startbootstrap.com/template-overviews/freelancer/)
+and their [repo](https://github.com/BlackrockDigital/startbootstrap-freelancer).
+
 # [Start Bootstrap - Resume](https://startbootstrap.com/template-overviews/resume/)
 
 [Resume](https://startbootstrap.com/template-overviews/resume/) is a resume and CV theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This theme features a fixed sidebar with content sections to build a simple, yet elegant resume.
@@ -8,14 +44,6 @@
 
 **[View Live Preview](https://blackrockdigital.github.io/startbootstrap-resume/)**
 
-## Status
-
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-resume/master/LICENSE)
-[![npm version](https://img.shields.io/npm/v/startbootstrap-resume.svg)](https://www.npmjs.com/package/startbootstrap-resume)
-[![Build Status](https://travis-ci.org/BlackrockDigital/startbootstrap-resume.svg?branch=master)](https://travis-ci.org/BlackrockDigital/startbootstrap-resume)
-[![dependencies Status](https://david-dm.org/BlackrockDigital/startbootstrap-resume/status.svg)](https://david-dm.org/BlackrockDigital/startbootstrap-resume)
-[![devDependencies Status](https://david-dm.org/BlackrockDigital/startbootstrap-resume/dev-status.svg)](https://david-dm.org/BlackrockDigital/startbootstrap-resume?type=dev)
-
 ## Download and Installation
 
 To begin using this template, choose one of the following options to get started:
@@ -23,8 +51,6 @@ To begin using this template, choose one of the following options to get started
 * Install via npm: `npm i startbootstrap-resume`
 * Clone the repo: `git clone https://github.com/BlackrockDigital/startbootstrap-resume.git`
 * [Fork, Clone, or Download on GitHub](https://github.com/BlackrockDigital/startbootstrap-resume)
-
-## Usage
 
 ### Basic Usage
 
